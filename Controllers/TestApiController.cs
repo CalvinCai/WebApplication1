@@ -19,5 +19,10 @@ namespace WebApplication1.Controllers
 
             return "Hello world! the para is :" + para;
         }
+
+        public void Test111()
+        {
+            // this func is no use!
+        }
     }
 }
