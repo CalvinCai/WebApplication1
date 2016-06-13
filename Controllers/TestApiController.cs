@@ -29,5 +29,10 @@ namespace WebApplication1.Controllers
         {
             // this is for test is no publish
         }
+
+        public void TestPullRequest()
+        {
+
+        }
     }
 }
