@@ -88,4 +88,10 @@ namespace WebApplication1.Models
     {
     }
     }
+    
+    public class TestUpdateFromMaster
+    {
+        //TestUpdateFromMaster
+    }
+    }
 }
