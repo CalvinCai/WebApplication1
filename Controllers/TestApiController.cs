@@ -24,5 +24,10 @@ namespace WebApplication1.Controllers
         {
             // this func is no use!
         }
+
+        public void TestInNopublish()
+        {
+            // this is for test is no publish
+        }
     }
 }
