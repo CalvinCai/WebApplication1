@@ -44,5 +44,10 @@ namespace WebApplication1.Controllers
         {
 
         }
+
+        public void Test1111111()
+        {
+            //测试直接pull
+        }
     }
 }
