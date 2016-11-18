@@ -26,5 +26,11 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+
+        public ActionResult NotFound()
+        {
+            ViewBag.Message = "404 Not found.";
+            return view();
+        }
     }
 }
